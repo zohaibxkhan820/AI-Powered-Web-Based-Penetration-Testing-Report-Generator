@@ -1,0 +1,9 @@
+AI api=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
+qebq gxhz wkbj xdyb App-Pas
+
+Secret key= f83a9b83e9f0a94e3cf0aa817bfb7b99d55f3c8f298eebc4b315a214d1a71f63
+gemmni api key= AIzaSyA9ZJgLVN0aTivgz0AKO3TUnHdfZ4w9rUc
+blackai=sk-QGom1KQKn7wiayay-tU38w
+model=blackboxai/deepseek/deepseek-v3-base:free
+
+openrouter=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

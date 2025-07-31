@@ -1,0 +1,22 @@
+http://testphp.vulnweb.com/
+
+Maintained by Acunetix specifically for testing
+Run: nikto -h http://testphp.vulnweb.com -Tuning x
+
+
+http://demo.testfire.net/
+
+Vulnerable banking application for security testing
+Run: nikto -h http://demo.testfire.net -Tuning x
+
+
+https://public-firing-range.appspot.com/
+
+Google's test bed for web application security scanners
+Contains XSS, CSRF, and other vulnerabilities
+
+
+http://zero.webappsecurity.com/
+
+Deliberately vulnerable online banking application
+Run: nikto -h http://zero.webappsecurity.com -Tuning x
